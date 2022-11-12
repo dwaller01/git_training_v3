@@ -1,2 +1,6 @@
 this is comparison lecture
+<<<<<<< Updated upstream
 this is a stash change to mainfile
+=======
+this is a stash change to sampletestfile1
+>>>>>>> Stashed changes
