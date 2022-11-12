@@ -1,1 +1,2 @@
 this is comparison lecture
+this is a stash change to mainfile
